@@ -1,0 +1,136 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="whyyhwwhwh.com" resolutions="1x,2x" timestamp="1557415258756">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3833264340" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="40d38ff03204563454f80b28a946102c-crop-u821.jpg" crc="4012097597" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="40d38ff03204563454f80b28a946102c-crop-u828.jpg" crc="4012097597" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="40d38ff03204563454f80b28a946102c-crop-u128.jpg" crc="4278369529" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="40d38ff03204563454f80b28a946102c-crop-u163.jpg" crc="4012097597" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="test-y-crop-u143.png" crc="3834133702" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="test-y-crop-u143_2x.png" crc="4209977059" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="eye.png" crc="142506344" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="eye_2x.png" crc="3782871085" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="eye2.png" crc="3803799043" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="eye2_2x.png" crc="3868222769" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="eye3.png" crc="4167927193" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="eye3_2x.png" crc="3936872862" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="海報.jpg" crc="54208457" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="海報_2x.jpg" crc="3818619011" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u882-4.png" crc="4222015191" ref="index"/>
+    <file name="u882-4_2x.png" crc="4232309453" ref="index"/>
+    <file name="u858-8.png" crc="297478528" ref="index"/>
+    <file name="u858-8_2x.png" crc="3864715535" ref="index"/>
+    <file name="img_2293.jpg" crc="3965216121" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_2293_2x.jpg" crc="3926606344" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u890-8.png" crc="3886506506" ref="index"/>
+    <file name="u890-8_2x.png" crc="32747648" ref="index"/>
+    <file name="img_1301-crop-u909.png" crc="3857639438" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1301-crop-u909_2x.png" crc="391618593" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1301-crop-u1011.png" crc="3857639438" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1301-crop-u1011_2x.png" crc="391618593" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1301-crop-u1036.png" crc="3857639438" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1301-crop-u1036_2x.png" crc="391618593" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1062-4.png" crc="4169902849" ref="index"/>
+    <file name="u1062-4_2x.png" crc="3841831602" ref="index"/>
+    <file name="u1068-10.png" crc="4106033944" ref="index"/>
+    <file name="u1068-10_2x.png" crc="4293052309" ref="index"/>
+    <file name="img_1369.jpg" crc="4131236417" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1369_2x.jpg" crc="4017798684" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1077-4.png" crc="195364502" ref="index"/>
+    <file name="u1077-4_2x.png" crc="386575116" ref="index"/>
+    <file name="img_3620.jpg" crc="532888396" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_2091.jpg" crc="4230255297" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_2091_2x.jpg" crc="4225956086" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_2156.jpg" crc="363399826" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_2156_2x.jpg" crc="4208604179" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1993.jpg" crc="4135831775" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1993_2x.jpg" crc="97242856" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_2184.jpg" crc="86223420" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_2184_2x.jpg" crc="3812638166" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1074-4.png" crc="456425740" ref="index"/>
+    <file name="u1074-4_2x.png" crc="41527631" ref="index"/>
+  </folder>
+  <file name="index.html" crc="38828274" seo="true" mt="1557414642481" redirect="true"/>
+</manifest>
